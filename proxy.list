@@ -6,6 +6,6 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,interactivebrokers.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # 国外DNS
