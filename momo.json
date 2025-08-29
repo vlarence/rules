@@ -120,7 +120,7 @@
   },
   "log": {
     "disabled": false,
-    "level": "info",
+    "level": "warning",
     "timestamp": true
   }
 }
