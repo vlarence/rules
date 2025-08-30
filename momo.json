@@ -66,7 +66,7 @@
       "tag": "dns-in",
       "type": "direct",
       "listen": "::",
-      "listen_port": 6053
+      "listen_port": 1053
     },
     {
       "tag": "http-in",
