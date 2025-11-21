@@ -5,4 +5,6 @@ DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,futunn.com
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,microsoft
 
