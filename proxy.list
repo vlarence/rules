@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,tradingview.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,topstepx
 DOMAIN-KEYWORD,topstep
-DOMAIN-KEYWORD,gvt1.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
