@@ -3,10 +3,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,tradingview.com
-#DOMAIN-SUFFIX,x.com,Proxy
-#DOMAIN-SUFFIX,twitter.com
-#DOMAIN-SUFFIX,twimg.com
-#DOMAIN-SUFFIX,t.co
 #DOMAIN-SUFFIX,topstepx.com
 #DOMAIN-SUFFIX,ibkr.com
 #DOMAIN-SUFFIX,ibllc.com
