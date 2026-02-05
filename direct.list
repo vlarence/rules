@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,futunn.com
-
+DOMAIN-SUFFIX,mi-img.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,microsoft
 #DOMAIN-KEYWORD,topstepx
