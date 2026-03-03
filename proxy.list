@@ -6,6 +6,14 @@ DOMAIN-SUFFIX,tradingview.com
 #DOMAIN-SUFFIX,topstepx.com
 #DOMAIN-SUFFIX,ibkr.com
 #DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,rithmic.com
+DOMAIN-SUFFIX,rithmic.net
+DOMAIN-SUFFIX,tradovate.com
+DOMAIN-SUFFIX,tradovateapi.com
+DOMAIN-SUFFIX,ninjatrader.com
+DOMAIN-SUFFIX,cqg.com DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,tradingview.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,topstepx
