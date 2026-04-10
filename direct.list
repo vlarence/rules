@@ -1,5 +1,5 @@
 # 直连补充列表
-#DOMAIN,c1.zdz.plus
+DOMAIN,c1.zdz.plus
 # 域名后缀匹配
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibllc.com
