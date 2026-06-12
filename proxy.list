@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,tradovateapi.com
 DOMAIN-SUFFIX,ninjatrader.com
 DOMAIN-SUFFIX,cqg.com DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,futunn.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,topstepx
